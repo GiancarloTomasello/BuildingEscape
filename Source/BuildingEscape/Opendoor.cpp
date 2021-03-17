@@ -1,8 +1,7 @@
 // Copyright Giancarlo Tomasello 2021
 
-
-#include "Opendoor.h"
 #include "GameFramework/Actor.h"
+#include "Opendoor.h"
 
 // Sets default values for this component's properties
 UOpendoor::UOpendoor()
